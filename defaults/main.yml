@@ -1,0 +1,6 @@
+---
+webmin_version: '1.890'
+webmin_path: '/etc/webmin'
+webmin_port: '10000'
+webmin_realm: Webmin Server
+webmin_ppa_key: http://www.webmin.com/jcameron-key.asc

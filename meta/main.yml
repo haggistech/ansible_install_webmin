@@ -1,0 +1,20 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: opdavies
+  description: Webmin installation for Red Hat/CentOS.
+  platforms:
+    - name: EL
+      versions:
+        - 6
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  categories:
+    - web
+    - development
+
